@@ -1,0 +1,17 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Dockerfile.develop" type="Dockerfile" />
+      <mapping pattern="s" type="PLAIN_TEXT" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="defaults" type="PLAIN_TEXT" />
+      <mapping ext="types" type="PLAIN_TEXT" />
+      <mapping ext="meta" type="PLAIN_TEXT" />
+      <mapping ext="ne" type="PLAIN_TEXT" />
+      <mapping ext="pkl" type="PLAIN_TEXT" />
+      <mapping ext="compose" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
