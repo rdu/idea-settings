@@ -10,7 +10,6 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>pom.xml</mask>
       <mask>.xml</mask>
       <mask>*.xml</mask>
       <mask>envireonment.properties</mask>
@@ -28,6 +27,7 @@
       <mask>*.html</mask>
       <mask>*.js</mask>
       <mask>*.ts</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
