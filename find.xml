@@ -13,7 +13,7 @@
     <mask>*.mxml</mask>
     <mask>hibernate*</mask>
     <mask>environment.properties</mask>
-    <mask>*.java</mask>
     <mask>pom.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
